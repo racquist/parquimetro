@@ -1,0 +1,15 @@
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\bin\Debug\net6.0\parquimetro.exe
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\bin\Debug\net6.0\parquimetro.deps.json
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\bin\Debug\net6.0\parquimetro.runtimeconfig.json
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\bin\Debug\net6.0\parquimetro.dll
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\bin\Debug\net6.0\parquimetro.pdb
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.csproj.AssemblyReference.cache
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.GeneratedMSBuildEditorConfig.editorconfig
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.AssemblyInfoInputs.cache
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.AssemblyInfo.cs
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.csproj.CoreCompileInputs.cache
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.dll
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\refint\parquimetro.dll
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.pdb
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\parquimetro.genruntimeconfig.cache
+D:\EAD Eng Software\CASE - ferramentas eng software\parquimetro\parquimetro\parquimetro\obj\Debug\net6.0\ref\parquimetro.dll
